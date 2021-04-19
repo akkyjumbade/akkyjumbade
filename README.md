@@ -1,4 +1,5 @@
 ### Full stack developer 👋
+Tired of boring websites.
 
 https://www.linkedin.com/in/jumbade/
 
