@@ -1,9 +1,8 @@
 ### Full stack developer 👋
 
-Laravel | Vue | React
-
 https://www.linkedin.com/in/jumbade/
 
+PHP | Laravel | Vanilla js | Vue | React | React Native
 
 <!--
 **akkyjumbade/akkyjumbade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
