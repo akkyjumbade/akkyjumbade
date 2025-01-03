@@ -3,7 +3,7 @@ Tired of boring websites.
 
 https://www.linkedin.com/in/jumbade/
 
-PHP | Laravel | Vanilla js | Vue | React | React Native | NextJs
+PHP | **Laravel** | Vanilla js | Vue | **React** | Svelte | React Native | NextJs
 
 <!--
 **akkyjumbade/akkyjumbade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
