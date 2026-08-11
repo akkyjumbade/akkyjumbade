@@ -3,8 +3,32 @@ Tired of boring websites.
 
 https://www.linkedin.com/in/jumbade/
 
-PHP | **Laravel** | Vanilla js | Vue | **React** | Svelte | React Native | NextJs
+#### 🔭 I’m currently working on ...
+- ModsWale
 
+
+#### Skills
+- React Native
+- React
+- Laravel
+- NextJs
+- Vue
+- Svelte
+- Javascript, Typescript
+
+
+#### 💬 Ask me about
+- React Native
+- React
+- Laravel
+- NextJs
+- Vue
+- Svelte
+- Javascript, Typescript
+
+
+#### 📫 How to reach me:
+- akkyjumbade@gmail.com
 <!--
 **akkyjumbade/akkyjumbade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
